@@ -60,7 +60,7 @@ public class CcsClient implements StanzaListener, ReconnectionListener, Connecti
     private static final Logger logger = LoggerFactory.getLogger(CcsClient.class);
 
     private XMPPTCPConnection xmppConn;
-    private String apiKey = "AIzaSyDdrs4rVwXrzui6N6wjRfrqgBe9JoszH-o";
+    private String apiKey = "apikey";
     private String username = "149763630937@fcm.googleapis.com";
     private boolean debuggable = false;
     private Boolean isConnectionDraining = false;
