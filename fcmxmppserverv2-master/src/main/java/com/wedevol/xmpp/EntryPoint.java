@@ -54,7 +54,7 @@ public class EntryPoint extends CcsClient {
 
     public static void main(String[] args) throws SmackException, IOException {
         final String fcmProjectSenderId = "149763630937";
-        final String fcmServerKey = "AAAAIt6bp1k:APA91bHwWL48h5ClhbrfYgSESIqSkDe6XqTtigXOg62IiGMmj-nF1LJScRD-xAIs5vgSUlaO8OtAURmc31dXNcRBSGBG8bJVNmK3ga2K3pD3PAxOc2qeecJ6xkSaf0RuTOE4BNW6RPIl";
+        final String fcmServerKey = "serverkey";
         final String toRegId = "q";
         new EntryPoint(fcmProjectSenderId, fcmServerKey, false, toRegId);
     }
