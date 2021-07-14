@@ -1,0 +1,11 @@
+com/wedevol/xmpp/server/FcmPacketExtension.class
+com/wedevol/xmpp/server/CcsClient.class
+com/wedevol/xmpp/bean/Message.class
+com/wedevol/xmpp/util/BackOffStrategy.class
+com/wedevol/xmpp/server/CcsClient$2.class
+com/wedevol/xmpp/util/MessageMapper.class
+com/wedevol/xmpp/EntryPoint.class
+com/wedevol/xmpp/bean/CcsInMessage.class
+com/wedevol/xmpp/bean/CcsOutMessage.class
+com/wedevol/xmpp/server/CcsClient$1.class
+com/wedevol/xmpp/util/Util.class
